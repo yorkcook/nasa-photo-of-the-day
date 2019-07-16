@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should match snapshot 1`] = `
+<div
+  className="App"
+>
+  <p>
+    Read through the instructions in the README.md file to build your NASA app! Have fun 🚀!!!
+    <div>
+      <h1
+        className="ui header red"
+      >
+        NASA Photo of the Day
+      </h1>
+      <div
+        className="ui header"
+      >
+        <h3 />
+      </div>
+      <img
+        alt="No good"
+      />
+    </div>
+  </p>
+</div>
+`;
